@@ -15,7 +15,7 @@ border: 0;
 outline: 0;
 font-size: 100%;
 vertical-align: baseline;
-background: transparent;
+;
 box-sizing: border-box; }
 
 *, *:before, *:after {
@@ -23,7 +23,7 @@ box-sizing: inherit; }
 
 body {
 line-height: 1;
-height: 100%; 
+height: 100%;
 font-size:16px;
 font-size:1.6rem;
 font-weight: 300;
@@ -64,13 +64,13 @@ font-size: 62.5%; }
 body {
 font-size: 14px;
 font-size: 1.4rem;
-color: #616161; }
+color: #3E3E3E; }
 
 h1 {
 font-size: 46px;
 font-size: 4.6rem;
 font-weight: 300;
-padding-left: 27%;
+padding-left: 14%;
 letter-spacing: -2px;
 color: #ffffff;
 text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.2); }
@@ -83,7 +83,7 @@ font-size: 2.4rem;
 line-height: 32px;
 margin-bottom: 2.267573%;
 font-weight: 400;
-color: #424242; }
+color: #FFFFFF; }
 
 h3 {
 font-size: 18px;
@@ -91,11 +91,11 @@ font-size: 1.8rem;
 font-weight: 400;
 margin-left: 2.173913043%;
 line-height: 48px;
-color: #ffffff }
+color: #FFFFFF }
 
 p {
 line-height: 28px;
-margin-bottom: 2.173913%; 
+margin-bottom: 2.173913%;
 font-sie: 16px;
 font-size: 1.6rem;
 font-weight: 300;
@@ -109,7 +109,7 @@ html {
 min-height: 100%; }
 
 body {
-background-color: #eeeeee;
+background-color: #1E1E1E;
 position: relative; }
 
 hr {
@@ -141,7 +141,7 @@ padding-right: 5px;
 vertical-align: middle; }
 
 .card {
-background-color: #ffffff;
+background-color: #3E3E3E;
 -moz-border-radius: 2px;
 -webkit-border-radius: 2px;
 -khtml-border-radius: 2px;
@@ -149,14 +149,14 @@ border-radius: 2px;
 box-shadow: 0px 2px 0px rgba(0, 0, 0, 0.1); }
 
 #header {
-background-color: #FF0000; }
+background-color: #3E3E3E; }
 #header .titlewd {
 display: block;
 *display: inline;
 *zoom: 1; }
 #header .titlewd img {
 max-height: 125px; }
-#header .headpad { 
+#header .headpad {
 line-height: 86px;
 }
 #header .icon-menu {
@@ -216,13 +216,13 @@ height:100%;
 /* position: relative; */
 }
 .main-desc .images-left .left-card{
-  background-color: #fff;
+  background-color: #1E1E1E;
   height: 412px;
   font-size: 0;
 }
 .main-desc .images-left .left-card img{
-  width: 100%; 
-   
+  width: 100%;
+
 }
 .main-desc .sell-points {
 width: 38.043478%;
@@ -260,7 +260,7 @@ margin-bottom: 25px; }
 .sellingBar li div i {
   margin: auto;
   display: block;
-  color: #eeeeee;
+  color: #1E1E1E;
   font-size: 30px;
   padding: 0; }
 .sellingBar li div i.icon-fast-delivery {
@@ -268,7 +268,7 @@ margin-bottom: 25px; }
 .sellingBar li .base-set-sell {
 color: #000000;
 font-weight: 400;
-text-transform: uppercase; 
+text-transform: uppercase;
 font-size: 18px;
 font-size: 1.6rem;
 }
@@ -282,7 +282,7 @@ min-height: 380px; }
 color: #ffffff;
 margin-bottom: 2.17391%;
 text-align: center;
-color: #424242;
+color: #FFFFFF;
 display: block;}
 #footer a {
 color: #006AB2; }
@@ -295,20 +295,20 @@ width: 49.3999%; }
 
 .button {
 font-weight: 300;
-background-color: #D0d0d0;
+background-color: #1E1E1E;
 padding: 10px;
 width: 49.4%;
-color: #424242;
+color: #FFFFFF;
 border: 0;
 margin: auto;
 height: 41px;
-line-height: 1.5; 
+line-height: 1.5;
 font-size: 16px;
 font-size: 1.6rem;
 }
 .button:hover {
 cursor: pointer;
-background-color: #c8c8c8; }
+background-color: #1E1E1E; }
 
 .right-card .button i {
 vertical-align: top; }
@@ -316,18 +316,18 @@ vertical-align: top; }
 .fullwb.button {
 width: 100%;
 margin-bottom: 3.030303%;
-background-color: #4CAF50;
+background-color: #1E1E1E;
 color: #ffffff; }
 .fullwb.button:hover {
-background-color: #47a44b; }
+background-color: #1E1E1E; }
 
 .card.five a.fullwb.button {
-background-color: #006AB2; }
+background-color: #1E1E1E; }
 .card.five a.fullwb.button:hover {
-background-color: #0061A3; }
+background-color: #1E1E1E; }
 
 .navigator {
-background-color: #FF0000;
+background-color: #3E3E3E;
 width: 100%;
 color: #ffffff;
 font-size: 16px;
@@ -396,8 +396,8 @@ border-radius: 2px; }
 #tab2{
   margin-bottom: 2.173913043%;
 }
-#tab1 h4, 
-#tab2 h4, 
+#tab1 h4,
+#tab2 h4,
 #tab3 h4 {
   font-size: 18px;
   margin-bottom:2.173913%;
@@ -414,7 +414,7 @@ img[alt="Listing Services"]{
 .ilb{
   display: inline-block;
   *display: inline;
-  *zoom: 1; 
+  *zoom: 1;
 }
 .half{
   width:49.4%;
